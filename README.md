@@ -1,1 +1,1 @@
-# prototipo_bot
+# Protótipo de bot para Discord
