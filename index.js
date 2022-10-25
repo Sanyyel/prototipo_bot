@@ -65,7 +65,7 @@ bot.on("message", (message) => {
 
 bot.on("message", (message) => {
     if (message.content.startsWith("!gabe")) {
-      message.channel.send("skye com papagaio no cu");
+      message.channel.send("skye com papagaio");
     }
 });
 
@@ -77,7 +77,7 @@ bot.on("message", (message) => {
 
 bot.on("message", (message) => {
   if (message.content.startsWith("!delta")) {
-    message.channel.send("menina veneno meu pinto é pequeno");
+    message.channel.send("menina trambolho");
   }
 });
 
